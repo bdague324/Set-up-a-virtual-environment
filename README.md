@@ -93,3 +93,7 @@ The Pandas library is not installed.
 ![Légende](Ipykernel_pandas.PNG)
 
 ![Légende](Creation_with_pandas.PNG)
+
+Pandas is well installed:
+
+![Légende](Leo_with_pandas.PNG)
