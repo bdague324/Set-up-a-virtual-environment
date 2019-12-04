@@ -96,4 +96,4 @@ The Pandas library is not installed.
 
 Pandas is well installed:
 
-![Légende](Leo_with_pandas.PNG)
+![Légende](Leo_with_Pandas.PNG)
