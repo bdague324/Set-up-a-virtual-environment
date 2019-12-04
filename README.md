@@ -59,3 +59,24 @@ Getting information about the connection:
 ![Légende](Info_nohup.PNG)
 
 For closing the Jupyter notebook, you just need to type: **close jupyter notebook**
+
+# Create virtual environment
+
+You have two possibilities: using **Conda** or **Pew**
+
+## By using Conda
+
+![Légende](Conda.PNG)
+
+![Légende](Env_conda_create.PNG)
+
+## By using Pew
+
+* Installing Pew
+![Légende](Install_pew.PNG)
+
+* Create a specific Kernel
+![Légende](Install_Kernel_conda.PNG)
+
+* Check the creation of the new environment
+![Légende](Env_BrieucEnv.PNG)
