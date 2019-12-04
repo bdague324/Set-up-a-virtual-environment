@@ -40,6 +40,18 @@ type "i" to include code. For example Print("Hello Brieuc").
 ![Légende](Fichier_python_print.PNG)
 ![Légende](File python created.PNG)
 
-Check that we are able to run a Python files
+Check that we are able to run the Python file.
 
 ![Légende](Hello.PNG)
+
+## Connection on Jupyter (user friendly environnement) from the Instance
+
+Still by using Ubuntu.
+
+![Légende](Install_Jupiter.PNG)
+![Légende](Jupiter.PNG)
+
+Configure to have access to it anytime type the following command:
+**nohup jupyter notebook --ip=0.0.0.0&**
+
+Getting information about the connection:
