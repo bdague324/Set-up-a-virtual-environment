@@ -80,3 +80,16 @@ You have two possibilities: using **Conda** or **Pew**
 
 * Check the creation of the new environment
 ![Légende](Env_BrieucEnv.PNG)
+
+### Check the presence of Pandas library into the new environnement
+
+The Pandas library is not installed.
+![Légende](Pew_Env_without_Pandas.PNG)
+
+## Installation of the Pandas Library into a new environment
+
+![Légende](Install_pandas.PNG)
+
+![Légende](Ipykernel_pandas.PNG)
+
+![Légende](Creation_with_pandas.PNG)
