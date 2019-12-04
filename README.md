@@ -55,3 +55,7 @@ Configure to have access to it anytime type the following command:
 **nohup jupyter notebook --ip=0.0.0.0&**
 
 Getting information about the connection:
+
+![Légende](Info_nohup.PNG)
+
+For closing the Jupyter notebook, you just need to type: **close jupyter notebook**
